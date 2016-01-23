@@ -1,0 +1,6 @@
+dinesh|Sapkota|Waiter|Finnish
+bishnu|sapkota|Cook|Australian
+santosh|sedain|Graphic Designer|German
+Hem|Dhungel|Bus Driver|British
+shiva|dhungel|Student|Nepali
+www|aaa|Waiter|Finnish
